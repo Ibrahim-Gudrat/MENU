@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="your_menu">Y O U R    ^    M E N U</string>
+    <string name="starters">Starters</string>
+    <string name="main_courses">Main Courses</string>
+    <string name="desserts">Desserts</string>
+    <string name="drinks">Drinks</string>
+    <string name="descriptionOfStarters">Picture of Starters</string>
+    <string name="descriptionOfMainCourses">Picture of Main Courses</string>
+    <string name="descriptionOfDesserts">Picture of Desserts</string>
+    <string name="descriptionOfDrink">Picture of Drink</string>
+</resources>
